@@ -218,7 +218,7 @@ export default function Portfolio() {
                 <div>
                   <h4 className="font-semibold">B.Tech in Computer Science and Engineering</h4>
                   <p className="text-muted-foreground">APJ Abdul Kalam Technological University</p>
-                  <p className="text-sm text-muted-foreground">Current CGPA: 7.72/10 • Expected 2026</p>
+                  <p className="text-sm text-muted-foreground">Expected 2026</p>
                   <p className="text-sm text-primary">Minor in Robotics and Automation</p>
                 </div>
                 <div>
