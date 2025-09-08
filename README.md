@@ -1,30 +1,63 @@
-# Personal portfolio website
+# 🌐 Mohamed Ashhar – Personal Portfolio
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Welcome to my **personal portfolio website**!  
+This project showcases my journey as a **Computer Science undergraduate**, my skills, projects, and experiences in **software development and technology**.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mohamedashhars-projects/v0-personal-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/5iFPTsMcJUO)
+---
 
-## Overview
+## 👤 About Me
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- 📍 Malappuram, Kerala  
+- 🔗 [LinkedIn](https://linkedin.com/in/mohamed-ashhar-44396427b)  
+- 💻 [GitHub](https://github.com/mohamedashhar)  
 
-## Deployment
+**Summary:**  
+I’m a highly motivated and adaptable **Computer Science Engineering undergraduate** with strong foundations in software development and problem-solving. I enjoy working in collaborative environments and am currently pursuing a **B.Tech in Computer Science and Engineering (2026)** with a **minor in Robotics & Automation**.
 
-Your project is live at:
+---
 
-**[https://vercel.com/mohamedashhars-projects/v0-personal-portfolio-website](https://vercel.com/mohamedashhars-projects/v0-personal-portfolio-website)**
+## 🛠️ Skills
 
-## Build your app
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, C  
+- **Other Interests:** AI/ML, Robotics, Automation, Web Development  
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/projects/5iFPTsMcJUO](https://v0.app/chat/projects/5iFPTsMcJUO)**
+## 🚀 Projects
 
-## How It Works
+### 📅 [Event Planner Web Application](https://github.com/mohamedashhar/event-planner)
+- Designed a platform for planning & organizing events (weddings, parties, etc.)  
+- Integrated **AI-driven service recommendations** (catering, photography, etc.)  
+- Enabled **image generation** for venue previews  
+- Included **service provider registration** and **real-time chat**  
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 📈 [TradeHive Quiz Platform](https://github.com/mohamedashhar/TradeHive)
+- AI-powered quiz platform for traders to test and improve their knowledge  
+- Quizzes tailored to **trading fundamentals**  
+- Enhanced user learning with **interactive and responsive design**  
+
+---
+
+## 🎨 Features of Portfolio Website
+
+- **Landing Page**: Clean hero section, about me, and featured projects  
+- **Projects Showcase**: Interactive cards linking to GitHub repositories  
+- **Responsive Design**: Works seamlessly across devices  
+- **Contact Section**: Direct links to LinkedIn and GitHub  
+- **Dark/Light Mode** toggle  
+
+---
+
+## ⚡ How to Run
+
+```bash
+# clone the repo
+git clone <your-portfolio-repo-url>
+cd portfolio
+
+# install dependencies
+npm install
+
+# start development server
+npm run dev
